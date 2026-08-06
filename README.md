@@ -47,7 +47,7 @@ README.md
 ## Team
 
 - Asher Frank
-- Katia
+- Katia Paredes
 - Alex (Guillermo)
 
 ---
